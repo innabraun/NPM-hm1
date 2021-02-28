@@ -1,0 +1,26 @@
+{
+  "name": "project-x",
+  "version": "1.0.0",
+  "description": "Inna Ihnatova. Group: FE-25",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "github",
+    "url": "github+https://github.com/innabraun"
+  },
+  "keywords": [],
+  "author": "Inna Ihnatova innabraun08@gmail.com",
+  "license": "ISC",
+  "homepage": "https://github.com/innabraun/npm-hm1",
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "eslint": "^7.21.0",
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "moment": "^2.29.1"
+  }
+}
